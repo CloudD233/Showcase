@@ -1,3 +1,5 @@
 # 4/5/2024 
 
-added the 
+Added the AStart Algorithm. The next step is to test the algorithm in the METAL webpage and analysis to see if it is a better algorithm than some of the others. 
+
+Then we will work on the fast-RRT path finding algorithm and the Multi-agent algorithm. I am not quite sure how to visualize the multi-agent algorithm, but I am sure I can figure that out. 
